@@ -36,7 +36,7 @@ Node* createNode(Book data){
     return newNode;
 }
 
-void print(Node *node){
+void printList(Node *node){
     Node *nodeAux;
     if(isEmpty(node)){
         puts("Lista vazia!");
@@ -82,10 +82,11 @@ Node* middleInsert(Book data, Node* node){
 
         int middle = abs((length(nodeAux) + 1)/2);
 
-        for(int count = 0; count != middle; count++){
+        for(int count = 1; count != middle; count++){
             nodeAux = nodeAux->next;
         }
 
+        newNode->next = nodeAux->next;
         nodeAux->next = newNode;
     }
 
@@ -93,24 +94,27 @@ Node* middleInsert(Book data, Node* node){
 }
 
 Node* removeNodeByTitle(Node *node, char title[]){
+    if(isEmpty(node)){
+        return node;
+    }
+
     Node *previous = initialize();
     Node *nodeAux = node;
 
-    while(!isEmpty(nodeAux) && !strcmp(nodeAux->data.title, title)){
+    while(!isEmpty(nodeAux) && strcmp(nodeAux->data.title, title)){
         previous = nodeAux;
         nodeAux = nodeAux->next;
     }
 
-    /*Title not found*/
-    if(isEmpty(nodeAux)){
+    if(!isEmpty(previous)){
+        previous->next = nodeAux->next;
+        free(nodeAux);
+        return node;
+    } else {
+        node = nodeAux->next;
+        free(nodeAux);
         return node;
     }
-
-    previous->next = nodeAux->next;
-
-    free(nodeAux);
-
-    return node;
 }
 
 Node* destroy(Node *node){

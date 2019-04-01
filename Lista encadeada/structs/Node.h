@@ -17,7 +17,7 @@ int isEmpty(Node* node);
 
 Node* createNode(Book data);
 
-void print(Node *node);
+void printList(Node *node);
 
 Node* initialInsert(Book data, Node* node);
 

@@ -1,10 +1,34 @@
 #ifndef NODETEST_H_INCLUDED
 #define NODETEST_H_INCLUDED
 
-void RunNodeTests();
+void runNodeTests();
 
-int EmptyNodeTest();
+void addFailure(char functionName[], int *failure);
 
-int CreateNodeTest();
+int emptyNodeTest();
+
+int createNodeTest();
+
+int initialInsertTest();
+
+int initialInsertWithEmptyListTest();
+
+int finalInsertTest();
+
+int finalInsertWithEmptyListTest();
+
+int middleInsertInAListOfTwoTest();
+
+int middleInsertInAListOfThreeTest();
+
+int middleInsertInAListOfZeroTest();
+
+int removeNodeByTitleWithAListOfOneElementTest();
+
+int removeNodeByTitleWithAListOfTwoElementsTest();
+
+int removeNodeByTitleWithAListOfThreeElementsTest();
+
+int removeNodeByTitleWithAListOfSixElementsTest();
 
 #endif // NODETEST_H_INCLUDED

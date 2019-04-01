@@ -3,7 +3,7 @@
 #include "test/NodeTest.h"
 
 int main(){
-    RunNodeTests();
+    runNodeTests();
 
     return 0;
 }
