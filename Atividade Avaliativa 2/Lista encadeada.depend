@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1553778406 source:c:\users\jpedr\desktop\inf01203-estruturas-de-dados-2019-1\lista encadeada\main.c
+	<stdio.h>
+	"test/NodeTest.h"
+
+1553739982 c:\users\jpedr\desktop\inf01203-estruturas-de-dados-2019-1\lista encadeada\structs\book.h
+
+1553778865 c:\users\jpedr\desktop\inf01203-estruturas-de-dados-2019-1\lista encadeada\structs\node.h
+	"Book.h"
+
+1553739982 source:c:\users\jpedr\desktop\inf01203-estruturas-de-dados-2019-1\lista encadeada\structs\book.h
+
+1553778865 source:c:\users\jpedr\desktop\inf01203-estruturas-de-dados-2019-1\lista encadeada\structs\node.h
+	"Book.h"
+
+1553809599 source:c:\users\jpedr\desktop\inf01203-estruturas-de-dados-2019-1\lista encadeada\structs\node.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"Node.h"
+	"Book.h"
+
+1553808032 c:\users\jpedr\desktop\inf01203-estruturas-de-dados-2019-1\lista encadeada\test\nodetest.h
+
+1553808032 source:c:\users\jpedr\desktop\inf01203-estruturas-de-dados-2019-1\lista encadeada\test\nodetest.h
+
+1553809902 source:c:\users\jpedr\desktop\inf01203-estruturas-de-dados-2019-1\lista encadeada\test\nodetest.c
+	"../structs/Node.h"
+
+1554136720 source:c:\users\aluno\desktop\inf01203-estruturas-de-dados-2019-1-master\lista encadeada\main.c
+	<stdio.h>
+	"test/NodeTest.h"
+
+1554140721 c:\users\aluno\desktop\inf01203-estruturas-de-dados-2019-1-master\lista encadeada\test\nodetest.h
+
+1554136720 source:c:\users\aluno\desktop\inf01203-estruturas-de-dados-2019-1-master\lista encadeada\structs\book.h
+
+1554140721 source:c:\users\aluno\desktop\inf01203-estruturas-de-dados-2019-1-master\lista encadeada\test\nodetest.h
+
+1554138704 source:c:\users\aluno\desktop\inf01203-estruturas-de-dados-2019-1-master\lista encadeada\structs\node.h
+	"Product.h"
+
+1554137454 c:\users\aluno\desktop\inf01203-estruturas-de-dados-2019-1-master\lista encadeada\structs\product.h
+
+1554140693 source:c:\users\aluno\desktop\inf01203-estruturas-de-dados-2019-1-master\lista encadeada\structs\node.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"Node.h"
+	"Product.h"
+
+1554138704 c:\users\aluno\desktop\inf01203-estruturas-de-dados-2019-1-master\lista encadeada\structs\node.h
+	"Product.h"
+
+1554140718 source:c:\users\aluno\desktop\inf01203-estruturas-de-dados-2019-1-master\lista encadeada\test\nodetest.c
+	"../structs/Node.h"
+
