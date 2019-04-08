@@ -1,0 +1,153 @@
+# depslib dependency file v1.0
+1553778406 source:c:\users\jpedr\desktop\inf01203-estruturas-de-dados-2019-1\lista encadeada\main.c
+	<stdio.h>
+	"test/NodeTest.h"
+
+1553739982 c:\users\jpedr\desktop\inf01203-estruturas-de-dados-2019-1\lista encadeada\structs\book.h
+
+1553778865 c:\users\jpedr\desktop\inf01203-estruturas-de-dados-2019-1\lista encadeada\structs\node.h
+	"Book.h"
+
+1553739982 source:c:\users\jpedr\desktop\inf01203-estruturas-de-dados-2019-1\lista encadeada\structs\book.h
+
+1553778865 source:c:\users\jpedr\desktop\inf01203-estruturas-de-dados-2019-1\lista encadeada\structs\node.h
+	"Book.h"
+
+1553809599 source:c:\users\jpedr\desktop\inf01203-estruturas-de-dados-2019-1\lista encadeada\structs\node.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"Node.h"
+	"Book.h"
+
+1553808032 c:\users\jpedr\desktop\inf01203-estruturas-de-dados-2019-1\lista encadeada\test\nodetest.h
+
+1553808032 source:c:\users\jpedr\desktop\inf01203-estruturas-de-dados-2019-1\lista encadeada\test\nodetest.h
+
+1553809902 source:c:\users\jpedr\desktop\inf01203-estruturas-de-dados-2019-1\lista encadeada\test\nodetest.c
+	"../structs/Node.h"
+
+1554136720 source:c:\users\aluno\desktop\inf01203-estruturas-de-dados-2019-1-master\lista encadeada\main.c
+	<stdio.h>
+	"test/NodeTest.h"
+
+1554140721 c:\users\aluno\desktop\inf01203-estruturas-de-dados-2019-1-master\lista encadeada\test\nodetest.h
+
+1554136720 source:c:\users\aluno\desktop\inf01203-estruturas-de-dados-2019-1-master\lista encadeada\structs\book.h
+
+1554140721 source:c:\users\aluno\desktop\inf01203-estruturas-de-dados-2019-1-master\lista encadeada\test\nodetest.h
+
+1554138704 source:c:\users\aluno\desktop\inf01203-estruturas-de-dados-2019-1-master\lista encadeada\structs\node.h
+	"Product.h"
+
+1554137454 c:\users\aluno\desktop\inf01203-estruturas-de-dados-2019-1-master\lista encadeada\structs\product.h
+
+1554140693 source:c:\users\aluno\desktop\inf01203-estruturas-de-dados-2019-1-master\lista encadeada\structs\node.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"Node.h"
+	"Product.h"
+
+1554138704 c:\users\aluno\desktop\inf01203-estruturas-de-dados-2019-1-master\lista encadeada\structs\node.h
+	"Product.h"
+
+1554140718 source:c:\users\aluno\desktop\inf01203-estruturas-de-dados-2019-1-master\lista encadeada\test\nodetest.c
+	"../structs/Node.h"
+
+1554310838 source:c:\users\jpedr\desktop\inf01203-estruturas-de-dados-2019-1\atividade avaliativa 2\main.c
+	<stdio.h>
+	"test/NodeTest.h"
+
+1554327386 c:\users\jpedr\desktop\inf01203-estruturas-de-dados-2019-1\atividade avaliativa 2\test\nodetest.h
+
+1554328716 source:c:\users\jpedr\desktop\inf01203-estruturas-de-dados-2019-1\atividade avaliativa 2\structs\node.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"Node.h"
+	"Product.h"
+
+1554327128 c:\users\jpedr\desktop\inf01203-estruturas-de-dados-2019-1\atividade avaliativa 2\structs\node.h
+	"Product.h"
+
+1554310838 c:\users\jpedr\desktop\inf01203-estruturas-de-dados-2019-1\atividade avaliativa 2\structs\product.h
+
+1554327128 source:c:\users\jpedr\desktop\inf01203-estruturas-de-dados-2019-1\atividade avaliativa 2\structs\node.h
+	"Product.h"
+
+1554327386 source:c:\users\jpedr\desktop\inf01203-estruturas-de-dados-2019-1\atividade avaliativa 2\test\nodetest.h
+
+1554328743 source:c:\users\jpedr\desktop\inf01203-estruturas-de-dados-2019-1\atividade avaliativa 2\test\nodetest.c
+	<stdio.h>
+	"../structs/Node.h"
+
+1554310838 source:c:\users\jpedr\desktop\inf01203-estruturas-de-dados-2019-1\atividade avaliativa 2\structs\product.h
+
+1554741038 source:c:\users\aluno\desktop\lista duplamente encadeada\main.c
+	<stdio.h>
+	"test/NodeTest.h"
+
+1554742876 c:\users\aluno\desktop\lista duplamente encadeada\test\nodetest.h
+
+1554744402 source:c:\users\aluno\desktop\lista duplamente encadeada\structs\node.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"Node.h"
+	"Product.h"
+
+1554743947 c:\users\aluno\desktop\lista duplamente encadeada\structs\node.h
+	"Product.h"
+
+1554741039 c:\users\aluno\desktop\lista duplamente encadeada\structs\product.h
+
+1554743947 source:c:\users\aluno\desktop\lista duplamente encadeada\structs\node.h
+	"Product.h"
+
+1554741039 source:c:\users\aluno\desktop\lista duplamente encadeada\structs\product.h
+
+1554743110 source:c:\users\aluno\desktop\lista duplamente encadeada\test\nodetest.c
+	<stdio.h>
+	<string.h>
+	"NodeTest.h"
+	"../structs/Node.h"
+
+1554742876 source:c:\users\aluno\desktop\lista duplamente encadeada\test\nodetest.h
+
+1554741038 source:c:\users\aluno\desktop\atividade avaliativa 3\main.c
+	<stdio.h>
+	"test/NodeTest.h"
+
+1554742876 c:\users\aluno\desktop\atividade avaliativa 3\test\nodetest.h
+
+1554744657 source:c:\users\aluno\desktop\atividade avaliativa 3\structs\node.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"Node.h"
+	"Product.h"
+
+1554743947 c:\users\aluno\desktop\atividade avaliativa 3\structs\node.h
+	"Product.h"
+
+1554741039 c:\users\aluno\desktop\atividade avaliativa 3\structs\product.h
+
+1554743947 source:c:\users\aluno\desktop\atividade avaliativa 3\structs\node.h
+	"Product.h"
+
+1554741039 source:c:\users\aluno\desktop\atividade avaliativa 3\structs\product.h
+
+1554743110 source:c:\users\aluno\desktop\atividade avaliativa 3\test\nodetest.c
+	<stdio.h>
+	<string.h>
+	"NodeTest.h"
+	"../structs/Node.h"
+
+1554742876 source:c:\users\aluno\desktop\atividade avaliativa 3\test\nodetest.h
+
