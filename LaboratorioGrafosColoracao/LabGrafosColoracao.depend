@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1560789436 source:c:\users\aluno\desktop\laboratoriografoscoloracao\caminhamentos.c
+	<stdio.h>
+	<stdlib.h>
+	"caminhamentos.h"
+
+1560790701 c:\users\aluno\desktop\laboratoriografoscoloracao\caminhamentos.h
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1560789440 c:\users\aluno\desktop\laboratoriografoscoloracao\fila.h
+
+1560789438 source:c:\users\aluno\desktop\laboratoriografoscoloracao\fila.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	"fila.h"
+
+1560793062 source:c:\users\aluno\desktop\laboratoriografoscoloracao\main.c
+	"caminhamentos.h"
+	<string.h>
+	<locale.h>
+
+1560789438 source:c:\users\jpedr\desktop\inf01203-estruturas-de-dados-2019-1\laboratoriografoscoloracao\caminhamentos.c
+	<stdio.h>
+	<stdlib.h>
+	"caminhamentos.h"
+
+1560790702 c:\users\jpedr\desktop\inf01203-estruturas-de-dados-2019-1\laboratoriografoscoloracao\caminhamentos.h
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1560789442 c:\users\jpedr\desktop\inf01203-estruturas-de-dados-2019-1\laboratoriografoscoloracao\fila.h
+
+1560789440 source:c:\users\jpedr\desktop\inf01203-estruturas-de-dados-2019-1\laboratoriografoscoloracao\fila.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	"fila.h"
+
