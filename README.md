@@ -1,1 +1,1 @@
-Exercícios realizados durante a disciplina Estruturas de Dados (INF-UFRGS)
+Exercícios realizados durante a disciplina Estruturas de Dados (INF-UFRGS).
