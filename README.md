@@ -1,1 +1,3 @@
-Exercícios realizados durante a disciplina Estruturas de Dados (INF-UFRGS).
+# Estruturas de Dados
+### Semestre: 2019/1
+#### Professor: Viviane P. Moreira
